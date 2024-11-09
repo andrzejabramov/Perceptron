@@ -67,4 +67,21 @@ https://colab.research.google.com/drive/1ZZhP8Ml5PcNGCLL6reyI1EpfVVdVcC0X?usp=sh
 https://colab.research.google.com/drive/1rpEhCil6h7BavsidfW_CvZ0Ati-vrC43?usp=sharing
 
 -------------------------------------------------------------------------------------------------
+Лекция: "Нейронные сети и глубокое обучение"
+https://colab.research.google.com/drive/1Jf4thwmQCvPkg2ALdWTFgQjtFdtZyz1n?usp=sharing
 
+Задание:
+https://colab.research.google.com/drive/1vhaBdCM4NovT4iiTwY5X4Eh9JXzDiAFB?usp=sharing
+
+Решение ДЗ_7:
+https://colab.research.google.com/drive/1Xxo2EfjeHCZQrRUvWEoQXc1RksLkF_Bd?usp=sharing
+
+-------------------------------------------------------------------------------------------------
+Лекция: "Обучение с подкреплением"
+https://colab.research.google.com/drive/1-28lf0o9GkHfI7809BBNVywh79RMVeEF?usp=sharing
+
+Задание:
+https://colab.research.google.com/drive/149CucjyeiF3kakoNDTiOcp6dfaL26Q28?usp=sharing
+
+Решение:
+https://colab.research.google.com/drive/1MRlqsBtnDv2NIpiX3kr5p2KiToBndgX4?usp=sharing
