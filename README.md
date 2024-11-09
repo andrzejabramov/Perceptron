@@ -29,3 +29,4 @@ https://colab.research.google.com/drive/1pbt5Y0dMFmtyc-BDB8AOs4prAEbwVOsR?usp=sh
 
 Решение:
 https://colab.research.google.com/drive/1gxfGnvv2tUPEO0LDpYOomRFbvwATfNWj#scrollTo=dcHuut1ofLxQ
+https://colab.research.google.com/drive/1gxfGnvv2tUPEO0LDpYOomRFbvwATfNWj?usp=sharing
